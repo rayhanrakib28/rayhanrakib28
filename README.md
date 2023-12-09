@@ -10,7 +10,7 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 ## :computer: Technologies that I know
-<hr/>
+
 <br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -44,7 +44,6 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<hr/>
 <br />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rayhanrakib28&theme=dark&background=45%2C000E3392%2C1875FF00&ring=1875FF&fire=1875FF&currStreakLabel=FFFFFF&border=1875FF" height="250" alt="streak graph"  />
@@ -62,9 +61,7 @@
 <br><br>
 
 ## :mailbox: Reach me out
-
 <br />
-<hr/>
 <p align="left">
 <a href="https://fb.com/rayhanrakib28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayhanrakib28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rayhanrakib28" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rayhanrakib28" height="30" width="40" /></a>
