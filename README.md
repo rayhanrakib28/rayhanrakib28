@@ -47,8 +47,7 @@
 <hr/>
 <br />
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rayhanrakib28&locale=en&mode=weekly&theme=nightowl&border_radius=5" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanrakib28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl" height="200" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayhanrakib28&theme=dark&background=45%2C000E3392%2C1875FF00&ring=1875FF&fire=1875FF&currStreakLabel=FFFFFF&border=1875FF" height="250" alt="streak graph"  />
 </div>
 
 ## :eyes: Current overview
