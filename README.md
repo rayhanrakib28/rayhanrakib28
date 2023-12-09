@@ -56,8 +56,8 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="200" alt="overview"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero As Learner. 
-### 🌱 I’m exploring - next.js web development. 
+### 🔭 I’m student - At Programming Hero. 
+### 🌱 I’m exploring - next.js Web Development. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 
 <br><br>
