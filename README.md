@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/rayhanrakib28/"> <img width="800" src="./images/banner.png"  /></a> 
+  <a href="https://www.linkedin.com/in/rayhanrakib28/"> <img width="800" src="./images/cover.png"  /></a> 
 </div>
 
 <p align="center">
